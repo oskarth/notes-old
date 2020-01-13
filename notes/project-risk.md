@@ -24,5 +24,5 @@ Further reading:
 **Decide When to stop (Shape Up - Part 3: Building - Chapter 13)** (https://basecamp.com/shapeup/3.5-chapter-13)
 
 - Compare to baseline (what current users get), not some perfect ideal. The use of fixed time forces trade-offs in what we care about.
-- Scope hammering: forcefully question if things need to be done. Separate must-have vs nice to have (marked with ~). QA at edges and by default these are discovered tasks -> nice to have. (Same for code review)
+- Scope hammering: forcefully question if things need to be done. Scope grows like grass. Separate must-have vs nice to have (marked with ~). QA at edges and by default these are discovered tasks -> nice to have. (Same for code review)
 - When to extend project? Circuit breaker: by default projects get cancelled. In some cases, can extend by two weeks. Only if all work is downhill (only execution left, no unknowns). If there's uphill work to do, this is too risky and shaping step failed.
