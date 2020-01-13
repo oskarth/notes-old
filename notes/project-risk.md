@@ -10,10 +10,8 @@
 **Risks and Rabbit Holes (Shape Up chapter 5)** (https://basecamp.com/shapeup/1.4-chapter-05):
 
 - Context: Shape Up book by Basecamp, on language and technique for shipping the right thing (for product development). Assuming: Fixed time, a six week bet / risk appetite, and that this thinking is largely done in "shaping up" stage.
-- We want project deliverable uncertainity to be thin-tailed around expected time, i.e. 95% within a week of fixed time.
-- If there are unknowns, it is easy (very easy) for a project to drag out 3x on the right tail.
-- Avoiding rabbit holes: Need to look for technical unknowns, design unknowns, and interdependencies.
-- Example questions to ask: have we built this type of thing before? have we vetted it with a technical expert? can we cut scope further? are there any unknowns in terms of dependencies? are there any hard decisions we should make upfront?
+- We want project deliverable uncertainity to be thin-tailed around expected time, i.e. 95% within a week of fixed time. If there are unknowns, it is easy (very easy) for a project to drag out 3x on the right tail.
+- Avoiding rabbit holes: Need to look for technical unknowns, design unknowns, and interdependencies. Example questions to ask: have we built this type of thing before? have we vetted it with a technical expert? can we cut scope further? are there any unknowns in terms of dependencies? are there any hard decisions we should make upfront?
 
 Further reading:
 - Decide When to Stop https://basecamp.com/shapeup/3.5-chapter-13
