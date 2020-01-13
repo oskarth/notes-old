@@ -15,3 +15,15 @@
 Follow up questions:
 - When it comes to normal nodes, what are the advantages of using Discovery v5?
 - How does this work in Bitcoin?
+
+**Node Discovery Protocol v5 (Oct 2019 draft, Lange)** (https://github.com/ethereum/devp2p/blob/master/discv5/discv5.md):
+
+- Node Discovery protocol for Ethereum stack, based on Kademlia DHT.
+- Allows sampling of whole network, topic registration and discovery, and authoritative most-recent location.
+- Compared to MDNS/Bonjour it is not just local network, whole Internet (DHT address space).
+- Compared to rendezvous points less trusted/single point of failure
+- Achilles heel is joining the network, which nodes do you start with? Bootstrap problem, use e.g. DNS (see above).
+
+Follow up questions:
+- RLP based, how does that work for Ethereum 2 stack?
+- How does topic registration and discovery work in more detail?
