@@ -12,5 +12,6 @@
 - If joining DHT is difficult due to restricted restricted network, DNS alone can work, since DNS is available anywhere.
 - Uses a merkle tree of node records, so a single signature of the root is sufficient to authenticate the whole node list.
 
-Follow up question:
+Follow up questions:
 - When it comes to normal nodes, what are the advantages of using Discovery v5?
+- How does this work in Bitcoin?
