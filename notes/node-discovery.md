@@ -64,3 +64,7 @@ Further reading:
 
 Further reading:
 - multicodec and https://github.com/multiformats/multiaddr/blob/master/protocols.csv
+- https://en.wikipedia.org/wiki/Type-length-value
+
+Follow up questions:
+- different ways of representing data, pros and cons? its own notes file, e.g. predefined (tcp), protobuf, ascii (http), clojure edn, etc.
