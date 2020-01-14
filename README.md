@@ -7,3 +7,4 @@ Notes on various subjects.
 - [Incentives](https://github.com/oskarth/research/blob/master/notes/incentives.md)
 - [Node discovery](https://github.com/oskarth/research/blob/master/notes/node-discovery.md)
 - [Project risk](https://github.com/oskarth/research/blob/master/notes/project-risk.md)
+- [Data representation](https://github.com/oskarth/research/blob/master/notes/data-representation.md)

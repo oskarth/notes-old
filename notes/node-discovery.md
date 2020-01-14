@@ -40,31 +40,6 @@ Follow up questions:
 - With something like multiaddr, could we make the identity scheme self-declaring and remove consensus requirement?
 - In Bittorrent, Bitcoin and other previous p2p networks, how does node identity?
 
-**Multiformat (site, fetched 2020)** (https://multiformats.io/):
+Also see [data representation](data-representation.md) for use of multiformat and multiaddr as node identity.
 
-- Reality: format have many different trade-offs, choices, let's accommodate that. Self-describing and future proof.
-- Collection of formats with a shared set of requirements: must be in-band/self-describing; extensible/no lock in; compact; human-readable.
-- Examples: multiaddr, multihash, multicodec, etc.
 
-Follow up questions:
-- Whats the maturity status of each of these and how are they used?
-
-Further reading:
-- IPFS specs
-- IPLD specs
-- Dat protocol
-
-*A bit off-topic for node discovery, consider moving this.*
-
-**Multiaddr (draft, fetched 2020)** (https://multiformats.io/multiaddr/):
-
-- Current addresses not self-describing, i.e. is `127.0.0.1:9000` TCP? UDP? Something else? Instead, use self-describing network addresses.
-- Uses recursive TLV (type-length-value) and has a human-readable representation and binary representation. Example: `/dns4/foo.com/tcp/80/http/bar/cat.jpg`
-- Default list of codecs to be used for "type" in `multicodec` table
-
-Further reading:
-- multicodec and https://github.com/multiformats/multiaddr/blob/master/protocols.csv
-- https://en.wikipedia.org/wiki/Type-length-value
-
-Follow up questions:
-- different ways of representing data, pros and cons? its own notes file, e.g. predefined (tcp), protobuf, ascii (http), clojure edn, etc.
