@@ -39,3 +39,19 @@ Follow up questions:
 - If we wanted wanted to make RLP pluggable, could we, realistically speaking? How does this look in Eth2/IPFS?
 - With something like multiaddr, could we make the identity scheme self-declaring and remove consensus requirement?
 - In Bittorrent, Bitcoin and other previous p2p networks, how does node identity?
+
+**Multiformat (site, fetched 2020)** (https://multiformats.io/):
+
+- Reality: format have many different trade-offs, choices, let's accommodate that. Self-describing and future proof.
+- Collection of formats with a shared set of requirements: must be in-band/self-describing; extensible/no lock in; compact; human-readable.
+- Examples: multiaddr, multihash, multicodec, etc.
+
+Follow up questions:
+- Whats the maturity status of each of these and how are they used?
+
+Further reading:
+- IPFS specs
+- IPLD specs
+- Dat protocol
+
+*A bit off-topic for node discovery, consider moving this.*
