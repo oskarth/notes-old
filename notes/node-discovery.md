@@ -55,3 +55,12 @@ Further reading:
 - Dat protocol
 
 *A bit off-topic for node discovery, consider moving this.*
+
+**Multiaddr (draft, fetched 2020)** (https://multiformats.io/multiaddr/):
+
+- Current addresses not self-describing, i.e. is `127.0.0.1:9000` TCP? UDP? Something else? Instead, use self-describing network addresses.
+- Uses recursive TLV (type-length-value) and has a human-readable representation and binary representation. Example: `/dns4/foo.com/tcp/80/http/bar/cat.jpg`
+- Default list of codecs to be used for "type" in `multicodec` table
+
+Further reading:
+- multicodec and https://github.com/multiformats/multiaddr/blob/master/protocols.csv
