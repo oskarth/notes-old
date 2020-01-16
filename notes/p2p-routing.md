@@ -37,8 +37,8 @@ Illustration of Kademlia path lookup (from paper):
 - Routing table is local to each peer, and degree is number of neighbors a node has. A hop is from one peer to another. Routing path can be recursive (multistep) or iterative (get information then ask new node). Diameter of graph is worst case "distance" between two nodes.
 - For storage retrieval we can additionally define `sid` and have an address space. This allows us to define predecessor and successor nodes in terms of id distance (e.g. Kademlia).
 
-Illustration of recursive vs iterative routing:
-![](assets/buford_graph_routing.png)
+Illustration of recursive vs iterative routing (from book):
+![](../assets/buford_graph_routing.png)
 
 Follow-up questions:
 - What are some good examples of this thinking allowing surprising and rigorous results that we can use?
