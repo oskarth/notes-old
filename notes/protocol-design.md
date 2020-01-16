@@ -35,4 +35,6 @@ Follow up questions:
 - Security: What are the downgrade attacks and 0-RTT replay concerns?
 - Exactly when is the secure channel setup, at what point are the properties guaranteed?
 - What about forward secrecy, and why / why is it not a design consideration?
+  - At record layer it is
 - What about traffic key/protocol? What does it do?
+  - It provides forward secrecy and also "length concealment", where you can't tell content from padding
