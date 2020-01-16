@@ -28,3 +28,18 @@ Illustration of Kademlia path lookup (from paper):
 ![](../assets/kademlia2.png)
 
 *Landmark paper, need to study this further*
+
+
+**P2P Networking and Applications (Chapter 2 P2P Concepts - Graph Theoretic Perspective, Buford, 2009)** (book):
+
+- Using graph theoretical notation to analyze properties of p2p overlays, such as stability, convergence and boundary conditions (when properties break down). Allows analysis such as power laws, small world phenomena, connectivity etc.
+- P2P overlay: G=(V,E), a graph of nodes with edges between them. Each node has neighbours and have a `pid` (peer id) and `nid` (network id). Overlay can be seen as a global view G_i -> G_i+1, etc, where each time step nodes join and leave the network.
+- Routing table is local to each peer, and degree is number of neighbors a node has. A hop is from one peer to another. Routing path can be recursive (multistep) or iterative (get information then ask new node). Diameter of graph is worst case "distance" between two nodes.
+- For storage retrieval we can additionally define `sid` and have an address space. This allows us to define predecessor and successor nodes in terms of id distance (e.g. Kademlia).
+
+Illustration of recursive vs iterative routing:
+![](assets/buford_graph_routing.png)
+
+Follow-up questions:
+- What are some good examples of this thinking allowing surprising and rigorous results that we can use?
+- What does this look like in gossip networks? What about for Kademlia connectivity and churn / boundary conditions?
