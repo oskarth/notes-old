@@ -22,9 +22,9 @@ Further questions:
 - How does Kademlia relate to Chord?
 
 Illustration of Kademlia tree and connectivity (from paper):
-![](assets/kademlia1.png)
+![](../assets/kademlia1.png)
 
 Illustration of Kademlia path lookup (from paper):
-![](assets/kademlia2.png)
+![](../assets/kademlia2.png)
 
 *Landmark paper, need to study this further*
