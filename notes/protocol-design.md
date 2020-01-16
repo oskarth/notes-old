@@ -13,3 +13,9 @@ Most immediate question is the following:
 
 ## Notes
 
+**Protocols (libp2p site, fetched 2020)** (https://docs.libp2p.io/concepts/protocols/):
+
+- Protocols are identified by a protocol id in libp2p using a path like structure, e.g. `/ipfs/ping/1.0`
+- Protocol negotiation happens over a bidirection stream, and protocol ids are matched exactly and associated with a specific handler. Optionally, fuzzy matching can be used as a fallback for semver matching, or anything else.
+- A list of protocol ids can be provided, in order of preference of version supported.
+- Some basic protocols are included, such as `ping`, `identity`, `kad-dht`, and `circuit-relay`.
