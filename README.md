@@ -5,6 +5,7 @@ Notes on various subjects.
 General:
 - [Effective research](https://github.com/oskarth/research/blob/master/notes/effective-research.md)
 - [Project risk](https://github.com/oskarth/research/blob/master/notes/project-risk.md)
+- [Lindy effect](https://github.com/oskarth/research/blob/master/notes/lindy-effect.md)
 
 P2P/Protocol oriented:
 - [Protocol design](https://github.com/oskarth/research/blob/master/notes/protocol-design.md)
