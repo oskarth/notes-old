@@ -29,6 +29,11 @@ Illustration of Kademlia path lookup (from paper):
 
 *Landmark paper, need to study this further*
 
+*Update: Currently working on my own implementation https://github.com/oskarth/nim-kad-dht and forked libp2p repo.*
+
+Question:
+- How 'official' of a concept is full kademlia connectivity? Where does Swarm talk about?
+- What happens to full Kademlia connectivity if PeerID is really large, i.e. we have many k-buckets => many possible connections?
 
 **P2P Networking and Applications (Chapter 2 P2P Concepts - Graph Theoretic Perspective, Buford, 2009)** (book):
 
