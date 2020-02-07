@@ -9,9 +9,24 @@
 
 ## Notes
 
+**(Pandemics: A Very Short Introduction (Very Short Introductions), Christian W. McMillen (2016))[https://www.amazon.com/Pandemics-Very-Short-Introduction-Introductions-ebook-dp-B01N2LLMXE/dp/B01N2LLMXE/]:**
+
+Chapter on 1918 Influenza (Spanish flu)
+
+- Impact: 1/3 of population got infected and ~50m died, happened in 3 waves of a few months each, 2nd most deadly
+- Normal: Flu every season, pandemics come around every generation or so, this one especially bad
+- Remote places: Remote places were hit, often worse, also quarantines were effective in e.g. American Samoa
+- Quarantines: Arguably, quarantines has a long history and may have contributed to modern state, e.g. Italy 500 years ago, etc
+- Hubris and censorship: UK not taking it seriously thinking they had germ theory of disease so all good, Italian gov censoring deaths
+- Shapeshifter: Flu as shapeshifter, while we have progressed in some areas, in other same ignorance as 500y ago for pandemic influenza
+
+Follow up questions:
+- Is there less verbalistic and more data/statistics on remote places infection rate and quarantine effectiveness?
+- More sources on connection between public health / quarantines and emergence of modern state? Similar to cities -> epidemics
+
 ## Further reading
 
-- (Pandemics: A Very Short Introduction (Very Short Introductions), Christian W. McMillen (2016))[https://www.amazon.com/Pandemics-Very-Short-Introduction-Introductions-ebook-dp-B01N2LLMXE/dp/B01N2LLMXE/]
+x (Pandemics: A Very Short Introduction (Very Short Introductions), Christian W. McMillen (2016))[https://www.amazon.com/Pandemics-Very-Short-Introduction-Introductions-ebook-dp-B01N2LLMXE/dp/B01N2LLMXE/] (partial)
 
 - (Chapter 12, History of Influenza Pandemics, Bruno Lina (2008))[http://www.academia.dk/BiologiskAntropologi/Paleopatologi/PDF/Paleomicrobiology/12.pdf] from Paleomicrobiology: Past Human Infections (2008) (http://www.academia.dk/BiologiskAntropologi/Paleopatologi/paleomicrobiology.php)
 
