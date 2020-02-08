@@ -66,6 +66,48 @@ Further reading:
 - General principles Chapter 2 (Nelson 2010), especially classification
 - Chapter 6  Infectious Disease Dynamics (Nelson 2010, especially in conjunction with Mathematica/notebook etc
 
+**Chapter 15 - Epidemiology and Prevention of Influenza Mark C. Steinhoff (Nelson, 2010):**
+
+- Influenza annual ~300k deaths, often impacts 10-30% of populaton (=> 0.1% death rate) [attack rate = infection rate?]; "antigenic variants" means new strands come up a lot.
+- Symptomps: abrupt onset of fever, respiratory symptoms, rhinorrhea, cough and sore throat. Transmission: respiratory secretion (cough/sneeze/talk); direct contact (kissing); indirect (nose-finger-doorknob).
+- Nomenclature: difficult due to many strains, "shape shifter". In order: Virus type, geographic site of first id, strain number from lab, year of isolation, virus subtype (e.g. Influenza A). E.g. "Spanish 1918" is H1N1 etc. Different antigenic change - swine/avian/etc.
+- Pandemic: pan = all; demos = people (greek). Five last 100y, vs annual influenza epidemics. Say case fatality rate of 1918 Spanish was 15-50% (!). First wave (April 18) it was reported as "low mortality" (how low?). Summer it changed, e.g. 10-25% of ppl died in Tahiti/western samoa.
+- Recently re-created 1918 influenza in 2005 from permafrost soldier autopsy to study why so deadly.
+- Normal influenza: usually happens abruptly, locally peaks in 3w and ends in 8w. North hemisphere (or NA?): Nov-Mar, Southern May-Sep (winter).
+- Two metrics to describe transmission: Reproduction number R0 and generation/serial interval time. Reprodution number is _mean_ number of secondary cases for typical patients.
+- Example transmissions: 1957/1968 1.5-1-8; 1918 2.4-5.4; 2009 1.8-2.2. Seasonal influenza serial interval time: 3.6; 2009 2.6-3.2.
+- Varies in size and impact based on: (a) degree of antigenic variation (b) virulence and transmissability and (c) degree of protective immunity in population.
+- Antigenic drift describes the mutability or "antigenic variation". This means e.g. changes surface of virus, and there's a high mutation chance in RNA, and high replication factor. The surface changes are "HA" and "NA" surfaces.
+- History of last 100y pandemics shows age distribution, severity and transmission varies unpredictability.
+
+Questions:
+- What is an "antigenic variant"?
+- What separate common cold, flu, influenza and other viruses?
+- What is rhinorrhea?
+- What is Influenza A vs other types?
+  -- apparently it is more common and severe for pandemics vs type B and C
+- What is meant by virulent? ~ more dangerous/fatal?
+- How low was the case fatality of the first wave of the spanish flu?
+- More precise mortality for spanish flu by region? Why?
+- Why was case fatality so high for spanish flu? How does compare to other influenza pandemics?
+- What is mean serial interval?
+  -- Average time from symptom onset of primary case to that of secondary case. Time between successive cases.
+- How can we know antigenic variant possibility for any given influenza?
+- What is an antigen?
+  -- In immunology, antigens are structures bound by antibodies, a cell surface receptor ~. [requires reading immunology chapter]
+- Where can I find more data on case fatality for different pandemics?
+
+
+## Further questions
+
+### Specifically on nCov-2019 and related
+
+- What exactly is corona virus?
+
+On two differences vs SARS (according to Singapore PM):
+- In what sense is it more infectious than SARS, and how do we know this?
+- In what sense is it less fatal (case fatality or mortality?) than SARS? How do we know this? Claim: 10% for SARS vs mortality rate 0.2% [is this confusing mortality rate with case fatality?], compared with seasonal influenza 0.1%
+
 ## Further reading
 
 - [Chapter 12, History of Influenza Pandemics, Bruno Lina (2008]([http://www.academia.dk/BiologiskAntropologi/Paleopatologi/PDF/Paleomicrobiology/12.pdf] from [Paleomicrobiology: Past Human Infections (2008)](http://www.academia.dk/BiologiskAntropologi/Paleopatologi/paleomicrobiology.php)
