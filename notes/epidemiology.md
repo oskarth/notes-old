@@ -34,6 +34,22 @@ Pretty clever, interesting with respective to mobility patterns and the ineffice
 
 Sources on [origins of quarantine (2002)](https://academic.oup.com/cid/article/35/9/1071/330421) with citations, a bit of a rabbit hole. 
 
+**[1918 Influenza: the Mother of All Pandemics (2006)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3291398/pdf/05-0979.pdf):**
+
+- Case fatality for 1918 Influenza was >2.5%, compared to other influenza pandemics that were <0.1%
+- The 1918 influenza, unlike almost all other influenza pandemics, showed a W-shape compared to a normal U-shape w.r.t age. I.e. it impacted young, old, and also half of cases were young adults 20-40
+- We still don't understand a lot about origins or why it was so deadly, and a lot of strands after it (H/N etc) come from it
+
+- Case fatality is proportion of cases (i.e. diagnosed, at a hospital say), divded by deaths. This is distinguished from mortality (full population) and incident ratio (diagnosed?).
+
+![](assets/influenza1918_wshape.png)
+
+![](assets/influenza1918_fatality.png)
+
+Questions:
+- What is the H/N etc numbers all about?
+- What are some good hypotheses for why it was so deadly, and also specifically for young adults?
+
 ## Further reading
 
 - [Chapter 12, History of Influenza Pandemics, Bruno Lina (2008]([http://www.academia.dk/BiologiskAntropologi/Paleopatologi/PDF/Paleomicrobiology/12.pdf] from [Paleomicrobiology: Past Human Infections (2008)](http://www.academia.dk/BiologiskAntropologi/Paleopatologi/paleomicrobiology.php)
