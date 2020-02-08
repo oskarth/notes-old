@@ -50,6 +50,22 @@ Questions:
 - What is the H/N etc numbers all about?
 - What are some good hypotheses for why it was so deadly, and also specifically for young adults?
 
+**[Infectious Disease Epidemiology: Theory and Practice, Kenrad E. Nelson, Carolyn Masters Williams (2010) [Standard textbook]](https://www.amazon.com/Infectious-Disease-Epidemiology-Theory-Practice/dp/1449683797/)**:
+
+(Very) rough scope:
+
+- Scope: Standard textbook with a lot of meat, most relevant now: *Part 2 Airborne Transmission Chapter 15 Epidemiology and Prevention of Influenza*, plus Part 1 with early history, general principles, prevention, outbreak epidemiology, dynamics, immune system, vaccines, etc.
+- Early epidemiology: Hippocrates *Air, Water and Places* (400 BCE) origin of disease as science, distinguish between *endemic* (always present) vs *epidemic* (not always present, but sometimes in large numbers). Then a lot of stuff: need to read more carefully. Observation and care of patients. Connects this with statistics and surveillence. Discovery of microrganisms. Vaccines.
+- General principles: Various forms of classification - infection (respiratory, CNS, etc); microbiological (bacterial, viral, parasite, etc); means of transmission (contact, food, airborne, etc); reservoir (human, animals, water). Characteristics - incubation period; biological such as infectivity/pathogenicity/virulence; Natural history (acute/chronic etc); surveillence of diseases
+- Prevention: Handwash; food safety; sanitation etc. Outbreak tracking; cohort analysis. Dynamics: R0; SIR model; estimation methods. Geographical Information System (e.g. Cholera Snow). Microbiology tools.
+
+Incubation period: time between exposure to infectious agent and onset of symptoms
+
+Further reading:
+- Early History of Infectious Disease Chapter 2 (Nelson 2010)
+- General principles Chapter 2 (Nelson 2010), especially classification
+- Chapter 6  Infectious Disease Dynamics (Nelson 2010, especially in conjunction with Mathematica/notebook etc
+
 ## Further reading
 
 - [Chapter 12, History of Influenza Pandemics, Bruno Lina (2008]([http://www.academia.dk/BiologiskAntropologi/Paleopatologi/PDF/Paleomicrobiology/12.pdf] from [Paleomicrobiology: Past Human Infections (2008)](http://www.academia.dk/BiologiskAntropologi/Paleopatologi/paleomicrobiology.php)
@@ -63,3 +79,5 @@ Questions:
 - [Lessons from the History of Quarantine, from Plague to Influenza A, 2013](https://wwwnc.cdc.gov/eid/article/19/2/12-0312_article)
 
 - [Estimates of the reproduction number for seasonal, pandemic, and zoonotic influenza: a systematic review of the literature (2014)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4169819/)
+
+- [On Airs, Waters, and Places, By Hippocrates, Written 400 B.C.E](http://classics.mit.edu//Hippocrates/airwatpl.html)
