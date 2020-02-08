@@ -42,9 +42,9 @@ Sources on [origins of quarantine (2002)](https://academic.oup.com/cid/article/3
 
 - Case fatality is proportion of cases (i.e. diagnosed, at a hospital say), divded by deaths. This is distinguished from mortality (full population) and incident ratio (diagnosed?).
 
-![](assets/influenza1918_wshape.png)
+![](../assets/influenza1918_wshape.png)
 
-![](assets/influenza1918_fatality.png)
+![](../assets/influenza1918_fatality.png)
 
 Questions:
 - What is the H/N etc numbers all about?
