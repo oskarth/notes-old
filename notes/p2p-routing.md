@@ -49,6 +49,21 @@ Follow-up questions:
 - What are some good examples of this thinking allowing surprising and rigorous results that we can use?
 - What does this look like in gossip networks? What about for Kademlia connectivity and churn / boundary conditions?
 
+**[Epidemic algorithms for replicated database maintenance, Demers (1987)](https://www.cis.upenn.edu/~bcpierce/courses/dd/papers/demers-epidemic.pdf)**:
+
+- Describes how maintain mutual consistency across multiple sites using different randomized algorithms
+- Direct Mail - sent from one site to all sites, problem with not knowing all sites and mail lost
+- Anti-entropy - choose another site at random and reconcile, reliable but slow
+- Rumor mongering - start of ignorant, then spread hot rumor until it turns cold - corresponds to SIR model
+
+Paper more about data consistency but randomized algorithms interesting as well for routing. Some simulation results regarding consistency and bandwidth overhead as well. Xerox Alto Research Center.
+
+## Follow up questions:
+
+- Who cited this paper?
+- What did Demer do after?
+- What are some good resources for Xerox PARC classics?
+
 ## Current reading list
 
 Deep dive:
@@ -56,12 +71,12 @@ Deep dive:
 - [Kademlia: A Design Specification, 2006 (?)](http://xlattice.sourceforge.net/components/protocol/kademlia/specs.html) More details on protocol
 
 To skim:
-- [Epidemic algorithms for replicated database maintenance, Demers (1987)](https://www.cis.upenn.edu/~bcpierce/courses/dd/papers/demers-epidemic.pdf) Seminal paper for spreading updates
 - [S/Kademlia: A Practicable Approach Towards Secure Key-Based Routing (2007)](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.68.4986&rep=rep1&type=pdf) Extending Kademlia to be more secure
 - [Epidemic Broadcast trees, 2007](https://repositorio.ul.pt/bitstream/10451/14105/1/07-14.pdf) Inspires episub in libp2p
 - [HyParView: a membership protocol for reliable gossip-based broadcast, 2007](https://repositorio.ul.pt/bitstream/10455/2981/1/07-13.pdf) Inspires episub in libp2p
 - [GoCast: Gossip-enhanced Overlay Multicast for Fast and Dependable Group Communication, 2005](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.4811&rep=rep1&type=pdf) Inspires episub in libp2p
 - [A Border Gateway Protocol 4 (BGP-4), 2006](https://tools.ietf.org/html/rfc4271) IETF standard, used for general internet reading
+- [Sloppy hashing and self-organizing clusters, 2003](https://www.coralcdn.org/docs/coral-iptps03.pdf) DHT extension
 
 Recent, <10 years old:
 - [Swarm forwarding kademlia, 2016 (?)](https://swarm-guide.readthedocs.io/en/latest/architecture.html#peer-management-hive-kademlia) Better understanding of forwarding Kademlia in Swarm
